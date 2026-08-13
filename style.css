@@ -1,4 +1,3 @@
-/* General */
 * {
     margin: 0;
     padding: 0;
@@ -49,7 +48,7 @@ nav ul li a:hover {
 }
 
 
-/* Hero Section */
+/* Hero */
 .hero {
     min-height: 80vh;
     display: flex;
@@ -107,7 +106,7 @@ nav ul li a:hover {
 }
 
 
-/* Common Section */
+/* Sections */
 .about,
 .skills,
 .projects,
@@ -162,7 +161,6 @@ nav ul li a:hover {
 .project-card h3 {
     font-size: 24px;
     margin-bottom: 15px;
-    color: #f8fafc;
 }
 
 .project-card p {
@@ -188,7 +186,7 @@ nav ul li a:hover {
 }
 
 
-/* Mobile Responsive */
+/* Mobile */
 @media (max-width: 768px) {
 
     nav {
