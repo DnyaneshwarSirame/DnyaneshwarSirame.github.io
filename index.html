@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Dnyaneshwar Sirame | Data Analyst Portfolio</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
     <!-- Navigation Bar -->
@@ -15,12 +17,13 @@
 
         <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Skills</a></li>
-            <li><a href="#">Projects</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
+
 
     <!-- Hero Section -->
     <section class="hero">
@@ -30,29 +33,141 @@
         <h2>Data Analyst</h2>
 
         <p>
-            I am an aspiring Data Analyst passionate about transforming data into meaningful insights.
-            I work with Excel, SQL, Python, and Power BI to solve real-world business problems through data analysis and visualization.
+            I am an aspiring Data Analyst passionate about transforming data
+            into meaningful insights. I work with Excel, SQL, Python, and
+            Power BI to solve real-world business problems through data
+            analysis and visualization.
         </p>
 
         <div class="buttons">
-            <a href="#" class="btn">View Projects</a>
-            <a href="#" class="btn">Download Resume</a>
+
+            <a href="#projects" class="btn">
+                View Projects
+            </a>
+
+            <a href="resume.pdf" class="btn">
+                Download Resume
+            </a>
+
         </div>
 
     </section>
-<!-- About Section -->
 
-<section class="about">
 
-    <h2>About Me</h2>
+    <!-- About Section -->
+    <section id="about" class="about">
 
-    <p>
-        I am an aspiring Data Analyst with 3 years of experience in Technical Support.
-        I enjoy working with data to uncover insights and build dashboards that help solve business problems.
-        My core skills include Excel, SQL, Python, and Power BI.
-    </p>
+        <h2>About Me</h2>
 
-</section>    
+        <p>
+            I am an aspiring Data Analyst with 3 years of experience in
+            Technical Support. I enjoy working with data to uncover insights
+            and build dashboards that help solve business problems.
+            My core skills include Excel, SQL, Python, and Power BI.
+        </p>
+
+    </section>
+
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+
+        <h2>Skills</h2>
+
+        <p>
+            SQL | Python | Pandas | NumPy | Power BI | Excel
+        </p>
+
+    </section>
+
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+
+        <h2>My Projects</h2>
+
+        <div class="project-container">
+
+
+            <!-- Project 1: Hotel Booking -->
+            <div class="project-card">
+
+                <h3>
+                    🏨 Hotel Booking Cancellation Analysis
+                </h3>
+
+                <p>
+                    Analyzed hotel booking data using Python and Pandas
+                    to identify booking patterns, cancellation trends,
+                    and useful business insights.
+                </p>
+
+                <p>
+                    <strong>Tools:</strong>
+                    Python, Pandas, NumPy, Jupyter Notebook
+                </p>
+
+                <a
+                    href="https://github.com/DnyaneshwarSirame/hotel-booking-cancelation-analysis"
+                    target="_blank"
+                    class="project-btn">
+                    View Project
+                </a>
+
+            </div>
+
+
+            <!-- Project 2: SQL Data Analysis -->
+            <div class="project-card">
+
+                <h3>
+                    🗄️ SQL Data Analysis
+                </h3>
+
+                <p>
+                    Performed data analysis using SQL to extract
+                    meaningful business insights from relational
+                    datasets.
+                </p>
+
+                <p>
+                    <strong>Tools:</strong>
+                    MySQL, SQL
+                </p>
+
+                <a
+                    href="#"
+                    class="project-btn">
+                    Coming Soon
+                </a>
+
+            </div>
+
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+
+        <h2>Contact Me</h2>
+
+        <p>
+            Interested in working together or discussing opportunities?
+            Feel free to connect with me on LinkedIn.
+        </p>
+
+        <a
+            href="https://www.linkedin.com/"
+            target="_blank"
+            class="btn">
+            LinkedIn
+        </a>
+
+    </section>
+
 
 </body>
 </html>
