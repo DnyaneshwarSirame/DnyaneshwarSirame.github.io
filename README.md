@@ -120,6 +120,7 @@ You can explore my portfolio and projects here:
 
 * 💼 LinkedIn: https://www.linkedin.com/in/dnyaneshwarsirame
 * 💻 GitHub: [DnyaneshwarSirame](https://github.com/DnyaneshwarSirame)
+*    Portfolio: https://dnyaneshwarsirame.github.io/
 
 ---
 
