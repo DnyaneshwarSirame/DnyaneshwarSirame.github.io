@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dnyaneshwar Sirame
+#  Hi, I'm Dnyaneshwar Sirame
 
 ### Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
