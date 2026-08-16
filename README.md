@@ -8,19 +8,19 @@ I have hands-on experience with SQL, Python, Pandas, Power BI, and Advanced Exce
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 💼 3+ years of experience in Technical Support in the Banking & BFSI domain
-* 📊 Currently building my career in Data Analytics
-* 🗄️ Hands-on experience with SQL and MySQL
-* 🐍 Working with Python, Pandas, and NumPy for data analysis
-* 📈 Creating dashboards and reports using Power BI
-* 📊 Strong working knowledge of Advanced Excel
-* 🔍 Interested in data cleaning, exploratory analysis, visualization, and reporting
+*  3+ years of experience in Technical Support in the Banking & BFSI domain
+*  Currently building my career in Data Analytics
+*  Hands-on experience with SQL and MySQL
+*  Working with Python, Pandas, and NumPy for data analysis
+*  Creating dashboards and reports using Power BI
+*  Strong working knowledge of Advanced Excel
+*  Interested in data cleaning, exploratory analysis, visualization, and reporting
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Data Analytics
 
@@ -51,7 +51,7 @@ I have hands-on experience with SQL, Python, Pandas, Power BI, and Advanced Exce
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 | Category         | Tools                     |
 | ---------------- | ------------------------- |
@@ -66,9 +66,9 @@ I have hands-on experience with SQL, Python, Pandas, Power BI, and Advanced Exce
 
 ---
 
-## 📊 Projects
+##  Projects
 
-### 🏨 Hotel Booking Analysis
+###  Hotel Booking Analysis
 
 **Tools:** Python, Pandas, NumPy, Jupyter Notebook
 
@@ -79,7 +79,7 @@ I have hands-on experience with SQL, Python, Pandas, Power BI, and Advanced Exce
 
 ---
 
-### 🗄️ SQL Data Analysis
+###  SQL Data Analysis
 
 **Tools:** MySQL
 
@@ -91,7 +91,7 @@ I have hands-on experience with SQL, Python, Pandas, Power BI, and Advanced Exce
 
 ---
 
-### 📈 Power BI Dashboard
+###  Power BI Dashboard
 
 **Tools:** Power BI, Excel
 
@@ -102,7 +102,7 @@ I have hands-on experience with SQL, Python, Pandas, Power BI, and Advanced Exce
 
 ---
 
-## 🌐 Portfolio Website
+##  Portfolio Website
 
 You can explore my portfolio and projects here:
 
@@ -116,15 +116,15 @@ You can explore my portfolio and projects here:
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/dnyaneshwarsirame
-* 💻 GitHub: [DnyaneshwarSirame](https://github.com/DnyaneshwarSirame)
+*  LinkedIn: https://www.linkedin.com/in/dnyaneshwarsirame
+*  GitHub: [DnyaneshwarSirame](https://github.com/DnyaneshwarSirame)
 *    Portfolio: https://dnyaneshwarsirame.github.io/
 
 ---
 
-## 📫 Contact
+##  Contact
 
 I’m open to opportunities in **Data Analytics, MIS, and related roles**.
 
